@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2364F74E&center=true&vCenter=true&width=440&height=45&lines=Hi%2C+I'm+Kasun+Umesh;Software+Engineer+Student;And+Full+Stack+Developer">
+  <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi%2C+I'm+Kasun+Umesh+;Software+Engineer+Student;And+Full+Stack+Developer)](https://git.io/typing-svg)">
 </p>
