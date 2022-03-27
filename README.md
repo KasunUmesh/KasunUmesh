@@ -27,3 +27,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=KasunUmesh&&show_icons=true&count_private=true&theme=blue-green&hide_border=true">|<img src="https://github-readme-streak-stats.herokuapp.com?user=KasunUmesh&theme=github-dark&hide_border=true&date_format=%5BY%20%5DM%20j&background=081F8D15"/>
 |---|---|
 <img alt="KasunUmesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasunUmesh&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>|
+
+<p align="Right">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=KasunUmesh&color=brightgreen">
+  <img alt="Profile followers" src="https://img.shields.io/github/followers/KasunUmesh">
+</p>
