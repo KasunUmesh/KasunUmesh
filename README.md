@@ -32,3 +32,5 @@
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=KasunUmesh&color=brightgreen">
   <img alt="Profile followers" src="https://img.shields.io/github/followers/KasunUmesh">
 </p>
+
+<a href="https://github.com/KasunUmesh/github-readme-activity-graph"><img alt="KasunUmesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KasunUmesh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
