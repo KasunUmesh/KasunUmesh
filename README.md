@@ -8,3 +8,16 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kasun Umesh</h1>
 <h3 align="center">I'm a  Full Stack Developer</h3>
+
+
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently education on **[IJSE(Institute of Software Engineering)](https://www.ijse.lk/)**
+
+- 🌱 I’m currently learning **everything**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 📫 How to reach me **kasunumesh38@gmail.com**
+
+- ⚡ Fun fact **I like to create new things.**
