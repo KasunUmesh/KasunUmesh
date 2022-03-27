@@ -21,3 +21,7 @@
 - 📫 How to reach me **kasunumesh38@gmail.com**
 
 - ⚡ Fun fact **I like to create new things.**
+
+## 📊 Github status
+
+<img src="https://github-readme-stats.vercel.app/api?username=KasunUmesh&&show_icons=true&count_private=true&theme=blue-green&hide_border=true">|<img src="https://github-readme-streak-stats.herokuapp.com?user=KasunUmesh&theme=github-dark&hide_border=true&date_format=%5BY%20%5DM%20j&background=081F8D15"/>
