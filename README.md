@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi%2C+I'm+Kasun+Umesh+;Software+Engineer+Student;And+Full+Stack+Developer">
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%">, I'm Kasun Umesh</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%">, I'm Kasun Umesh</h1>
 <h3 align="center">I'm a  Full Stack Developer</h3>
 
 
