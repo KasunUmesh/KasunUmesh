@@ -33,6 +33,7 @@
   <img alt="Profile followers" src="https://img.shields.io/github/followers/KasunUmesh">
 </p>
 
+## 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia&ma&margin-w=10&ma&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🛠️ My favorite tools
