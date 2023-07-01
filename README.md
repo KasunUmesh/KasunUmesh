@@ -10,7 +10,7 @@
 <h3 align="center">I'm a  Full Stack Developer</h3>
 
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️About Me
 
 - 🔭 I’m currently education on **[IJSE(Institute of Software Engineering)](https://www.ijse.lk/)**
 
